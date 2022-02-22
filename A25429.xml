@@ -1,0 +1,266 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter of remarks upon Jovian by a person of quality.</title>
+            <author>Anglesey, Arthur Annesley, Earl of, 1614-1686.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25429</idno>
+            <idno type="STC">Wing A3174</idno>
+            <idno type="STC">ESTC R16260</idno>
+            <idno type="EEBO-CITATION">13617885</idno>
+            <idno type="OCLC">ocm 13617885</idno>
+            <idno type="VID">100793</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25429)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100793)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 832:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter of remarks upon Jovian by a person of quality.</title>
+                  <author>Anglesey, Arthur Annesley, Earl of, 1614-1686.</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. Jones,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Written by the Earl of Anglesey.  Cf. Wing.</note>
+                  <note>Errata: p. 15.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hickes, George, 1642-1715. --  Jovian.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100793:1" rendition="simple:additions"/>
+            <p>A LETTER OF Remarkes UPON JOVIAN.</p>
+            <p>By a Perſon of <hi>QUALITY.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>H. Jones.</hi> M.DC.LXXXIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:100793:2"/>
+            <pb n="3" facs="tcp:100793:2"/>
+            <head>A LETTER OF Remarkes ON JOVIAN.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Muſt quarrel you for the Promiſe you extort<g ref="char:EOLhyphen"/>ed from me of giving a ſhort account in writ<g ref="char:EOLhyphen"/>ing of my free and Impartial Thoughts of the long expected <hi>Jovian.</hi> You know we are now under ſuch unhappy Circumſtances, that whatſoever is ſaid or done againſt any falſe Preten<g ref="char:EOLhyphen"/>der to the Service of the Crown, is look't upon as an Act of Diſloyalty. And I may by ſome be thought an Enemy to the <hi>Imperial Crown,</hi> if I go to ſhew wherein one who talks high for it, has really diſ<g ref="char:EOLhyphen"/>ſerv'd it; But ſince I am ſatisfied, that whatſoever miſchief is in this, lyes only in the Opinion of thoſe Men, whom I need not value; I ſhall not for their ſakes, deny my Promiſe, or my Friend.</p>
+            <p>
+               <pb n="4" facs="tcp:100793:3"/>
+I ſhall not concern my ſelf in the Merits of the Cauſe between him and his Adverſary.</p>
+            <p>I ſhall only ſhew wherein it has ſuffer'd for want of a better Advocate.</p>
+            <p>But thus much is obvious, that if the Prince makes no claim to his Power, in ſuch manner as he aſcribes it to him; this Author is guilty of a foul miſ-repreſenta<g ref="char:EOLhyphen"/>tion of him, in putting out ſuch a labor'd Piece, as it were, on purpoſe to promote Fears and Jealouſies. But then, if he both is ſo Inveſted with his Power, and will have it known that he will uſe it accord<g ref="char:EOLhyphen"/>ingly, as he ſees Occaſion, a weak and partial proof of it ought to be puniſh't as treacherous.</p>
+            <p>For this <hi>Miniſter of London,</hi> as he ſtiles himſelf, who will not allow the <hi>Church of England</hi> to be a true Church,<note place="margin">Jov. Pref.</note> un<g ref="char:EOLhyphen"/>leſs we own the <hi>Church of Rome</hi> to be ſo too. I ſhall in ſhort make it appear, that he has in this Book of his, ſhewn himſelf neither,
+<list>
+                  <item>1. <hi>Logitian,</hi> Nor</item>
+                  <item>2. Good <hi>Hiſtorian,</hi> Nor</item>
+                  <item>3. Fair and Equal <hi>Writer;</hi>
+                  </item>
+                  <item>4. Beſides that, he <hi>
+                        <g ref="char:V">Ʋ</g>ndermines</hi> the force of all that he would ſeem to ſay, by his <hi>Conceſſions</hi> and <hi>Contradictions.</hi> And then judge what Reward he deſerves for his very great pains.</item>
+               </list>
+            </p>
+            <p n="1">1ſt. Not <hi>Logitian,</hi> becauſe he doth not, as he ſhould, ſtate the Queſtion. The Paraleliſm in <hi>Juli<g ref="char:EOLhyphen"/>an,</hi> is not, between the State and Condition of <hi>Chriſti<g ref="char:EOLhyphen"/>ans</hi> under <hi>Pagan</hi> Emperours, who Governed diſpoti<g ref="char:EOLhyphen"/>cally while the <hi>Chriſtians</hi> lived precariouſly, and were always under the <hi>Bow-ſtring Law,</hi> as now in <hi>Turkey;</hi> and thoſe Communities of <hi>Chriſtians,</hi> who upon mutual Stipulation upon Oath, agree to keep
+<pb n="5" facs="tcp:100793:3"/>ſuch Laws as were then made, or after ſhould be ge<g ref="char:EOLhyphen"/>nerally agreed unto, according to the Eſtabliſhed Le<g ref="char:EOLhyphen"/>giſlative.</p>
+            <p>Neither <hi>Secondly,</hi> Was it the Queſtion what was to be done to Crowned Heads, but what might have lawfully been done to prevent the Succeſſion of one of dangerous or ſuſpected Principles: So that what followed was only Circumſtantial. And if it did not ſhew what might be done by <hi>Chriſtians</hi> in the like Caſe with thoſe under <hi>Julian;</hi> at the leaſt, it ſhewed what was the nature of thoſe <hi>Prayers</hi> and <hi>Tears,</hi> the acceptableneſs of which, ſome would think, God Evidenced by his miraculous Deſtruction of that Tyrant.</p>
+            <p n="2">2dly, He ſhews himſelf no good <hi>HISTORI<g ref="char:EOLhyphen"/>AN.</hi> For which I ſhall take notice of but four Parti<g ref="char:EOLhyphen"/>culars.</p>
+            <list>
+               <item>1. (In which he has likewiſe betrayed great Indi<g ref="char:EOLhyphen"/>ſcretion) his producing the <hi>Scotch</hi> Act of Parliament for the Sacredneſs and Unalterableneſs of the Succeſſi<g ref="char:EOLhyphen"/>on, without knowing any thing of that ſcurvy Story of <hi>Elizabeth Mure,</hi> or offering at any Diſproof of it.</item>
+               <item>2. His Vouching the Solemn Recog<g ref="char:EOLhyphen"/>nition of King <hi>James</hi> his Title in Par<g ref="char:EOLhyphen"/>liament,<note place="margin">Pref.</note> as an Argument that King <hi>Henry</hi> the Eigths Limitation of the like Authority, was void:<note place="margin">Crown by the <hi>Burnets Hiſt.</hi> 1ſt. <hi>Part.</hi>
+                  </note> When if he had read the Hiſtory of the <hi>Refor<g ref="char:EOLhyphen"/>mation,</hi> he might have known that the <hi>Limitation</hi> he mentions, was by an In<g ref="char:EOLhyphen"/>authoritative Will, the direction of the Parliament not having been duly purſued.</item>
+               <item>
+                  <pb n="6" facs="tcp:100793:4"/>
+3. His carping at the Relation of Sir <hi>Simon Dewes,</hi> in the buſineſs of the Queen of <hi>Scots.</hi> King <hi>James</hi> be<g ref="char:EOLhyphen"/>ing more concerned for the fame of his Mother, than of our glorious Queen, cauſed Mr. <hi>Camdens</hi> Papers to be ſeized, and delivered into the hands of the then Earl of <hi>Northampton,</hi> who ſtruck out what he plea<g ref="char:EOLhyphen"/>ſed in that Matter; which made the Poor man lament with Tears, as can even at this Day be ſufficiently proved. This and the <hi>Index Expurgatorius.</hi> Sir <hi>Si<g ref="char:EOLhyphen"/>mon</hi> might well know, who being a Man of conſum<g ref="char:EOLhyphen"/>mated Knowledge in all kind of Literature, and An<g ref="char:EOLhyphen"/>tiquity ought not to be controul'd by one, whoſe ut<g ref="char:EOLhyphen"/>moſt effort, after the Corrections and Helps of all his Friends, ends in this diſpicable Trifle.</item>
+               <item>4. But then without the leaſt Judgment or Know<g ref="char:EOLhyphen"/>ledge of the various Acceptation of the Word. <hi>Eſtate</hi> both in Records and Hiſtories, he falls foul up<g ref="char:EOLhyphen"/>on the <hi>Lord Hollis,</hi> and would have it Treaſon, be<g ref="char:EOLhyphen"/>cauſe he calls the King a <hi>Third Eſtate.</hi> This may be falſe, but ſurely no Treaſon, except he had ſaid, <hi>The King had but a Co-ordinate Power, and might be over<g ref="char:EOLhyphen"/>rul'd by the other.</hi> He would ſuggeſt, as if the aſcrib<g ref="char:EOLhyphen"/>ing that Letter about the Biſhops Voting in Capital Cauſes to that Lord, were a wrong and ſcandal to his Memory.<note place="margin">
+                     <hi>Jov.</hi> p. 236.</note> That it was his is paſt all doubt, he having own'd it in his Life time, and after continued the ſame Subject, which was Printed after his death, with other Contracts to the ſame purpoſe by others: &amp; if the Dr. had been a man converſant in that Learn<g ref="char:EOLhyphen"/>ing, he could not but have found by them,<note place="margin">
+                     <hi>Jov.</hi> p. 185.</note> that the <hi>moſt Learned and Worthy Author of the Graud Queſtion,</hi> is ſo far from having made good any Impu<g ref="char:EOLhyphen"/>tation
+<pb n="7" facs="tcp:100793:4"/>upon the <hi>Candor and Veracity</hi> of that noble Lord, that how much ſoever he may have <hi>Obliged the Age by his many Learned Works,</hi> yet he may beconcern'd to vindicate himſelf againſt the <hi>Conſiderations</hi> upon his Book long ſince Publiſhed.</item>
+            </list>
+            <p n="3">3. I ſhall very briefly make good my Charge of his being no Fair nor Equal Writer: For this I might inſtance in his partial Quotations of <hi>Bracton, Fleta,</hi> and <hi>Forteſcue,</hi> concerning our <hi>Engliſh Government,</hi> which it lyes upon Mr. <hi>J.</hi> to ſhew more at large: but I believe this Author would be loth to receive all their Sayings for Law, though back't with the Autho<g ref="char:EOLhyphen"/>rity of the old <hi>Mirror</hi> to boot. I ſhall only evince him to be guilty of a little <hi>Impiety</hi> in his Quotation of <hi>Acts of Parliament,</hi>
+               <note place="margin">p. 234.</note> accord<g ref="char:EOLhyphen"/>ing to his own acceptation of the word, when he would apply it to others. You muſt under<g ref="char:EOLhyphen"/>ſtand that he ſplits the Hair very curiouſly between the <hi>Imperial</hi> and <hi>Political Laws</hi> of the Realm, by one of which, it ſeems, a man may be hanged, or looſe what he has, when he is Juſtifiable by the other;</p>
+            <p>
+               <hi>In all Soveraign Governments, Sub<g ref="char:EOLhyphen"/>jects,</hi> [he ſays,<note place="margin">p. 245.</note>] <hi>muſt be Slaves, as to this Particular; they muſt truſt their Lives and Liberties with their Soveraign. But the</hi> Eng<g ref="char:EOLhyphen"/>gliſh <hi>Realm is a Perfect Soveraign<g ref="char:EOLhyphen"/>ty or Empire, and the King of</hi> Eng<g ref="char:EOLhyphen"/>land,
+<pb n="8" facs="tcp:100793:5"/>
+               <hi>by the Imperial Laws of it,</hi>
+               <note place="margin">p. 208.</note> 
+               <hi>is a compleat Impe<g ref="char:EOLhyphen"/>rial and Independent So<g ref="char:EOLhyphen"/>veraign, to whom the foreſaid Rights of Soveraignty do inſeperably belong,</hi> VIZ. As he had before enu<g ref="char:EOLhyphen"/>merated them.</p>
+            <list>
+               <item>1. <hi>To be accountable to none but God.</hi>
+               </item>
+               <item>2. <hi>To have the ſole Power and Diſ<g ref="char:EOLhyphen"/>poſal of the Sword.</hi>
+               </item>
+               <item>3. <hi>To be free from all Coercive and Indicative Power.</hi> P. 202.</item>
+               <item>4. <hi>To have the Legiſlative Power, or the Power that makes any Form of Words a Law.</hi>
+               </item>
+            </list>
+            <p>Now he chooſes rather to prove that our King is an <hi>Abſolute Soveraign;</hi> and therefore has theſe Incidents, than that he hath all theſe in an <hi>Abſolute Manner,</hi> and therefore is an <hi>Abſolute Soveraign.</hi>
+            </p>
+            <p>But it falls out unluckily, that when in ſome Caſes, the very Enacting Parts of Statutes, ſhall ſignifie no<g ref="char:EOLhyphen"/>thing to Him; yet the moſt tolerable Proof that he brings, to ſhew that all the Civil Rights of the Nati<g ref="char:EOLhyphen"/>on are in the Kings Hands, to do as he pleaſes with any particular Perſon, eſpecially (THOUGH
+<pb n="9" facs="tcp:100793:5"/>THE PERSONAL ORDERS BY WHICH HE TOUCHES THIS OR THAT, OR THESE OR THOSE MEN, ARE NOT DRAWN INTO PRESIDENT, AND EFFECT NOT OTHERS:) <hi>p.</hi> 193. The beſt Proof of this (I ſay,) is drawn from the Pream<g ref="char:EOLhyphen"/>bles of Acts of Parliament about <hi>Eccleſiaſtical Affairs,</hi> moſt of them againſt the Uſurpation of the <hi>Roman See,</hi> upon this <hi>Imperial</hi> and <hi>Independent Crown;</hi> and the ſtrongeſt of them very unfairly cited.</p>
+            <p>Intending here but a taſt of his Diſ-ingenuity, I ſhall give but two Examples, and that in 24. <hi>H.</hi> 8. c. 12. and 25. <hi>H.</hi> 8. c. 21. He tells us.</p>
+            <p>
+               <hi>P.</hi> 108. <q>By the whole Parliament, 24. <hi>H.</hi> 8. c. 12. it was Reſolved, and ſo declared, that by ſundry <hi>Authentick Hiſtories</hi> and <hi>Chronicles,</hi> it is ma<g ref="char:EOLhyphen"/>nifeſtly Declared and Expreſſed, that this Realm of <hi>England</hi> is an <hi>Empire,</hi> and ſo hath been accept<g ref="char:EOLhyphen"/>ed in the World, Governed by one Supream Head and King, having Dignity and Royal Eſtate of the Imperial Crown of the ſame.</q>
+            </p>
+            <p>
+               <hi>P.</hi> 213. <q>After the words before cited, it follows, (ſays he) unto whom a Body <hi>Politick</hi> — been bounden and owen to bear next unto God, a na<g ref="char:EOLhyphen"/>tural and humble Obedience, he being inſtituted and furniſhed with plenary, whole and Entire Pow<g ref="char:EOLhyphen"/>er, Preheminence, Authority, <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>Thus far he. But methinks, if he had intended fair<g ref="char:EOLhyphen"/>neſs, he would at leaſt have Anſwered the <hi>Objection</hi> from the following words, which ſome may take as <hi>Reſtrictive,</hi> Viz. Prerogative and Juriſdiction to <q>RENDER and YIELD <hi>Juſtice and Final De<g ref="char:EOLhyphen"/>termination</hi> to all manner of Folk, Reſiants, or Sub<g ref="char:EOLhyphen"/>jects within this his Realm, in all Cauſes, Matters,
+<pb n="10" facs="tcp:100793:6" rendition="simple:additions"/>Debates and Contentions, hapning to incur, inſurg, or begin within the Limits thereof, without Re<g ref="char:EOLhyphen"/>ſtraint or Provocation to any Forreign Princes or Potentates of the World.</q>
+            </p>
+            <p>Then the Statute 25. <hi>H.</hi> 8. c. 21. has no more <hi>Plous</hi> Treatment than the former. The words he has occa<g ref="char:EOLhyphen"/>ſion for, are theſe.</p>
+            <p>
+               <hi>P.</hi> 212. <q>That this your Graces Realm, Recogni<g ref="char:EOLhyphen"/>zing no Superiour under God, but only your Grace has been, and is free from Subjection.</q>
+            </p>
+            <p>Now me-thinks, this is a ſtrange kind of Breach: to ſay that this Realm is under God and the King, and yet free from Subjection, ſounds a little odly; where<g ref="char:EOLhyphen"/>fore we muſt look further for their meaning: The <hi>Act</hi> goes on thus,</p>
+            <p>
+               <q>TO ANY MANS LAWS but only ſuch as have been Deviſed, Made and Ordained within this Realm, for the Wealth of the ſame, or to ſuch other as by Sufferance of your Grace, and your Pro<g ref="char:EOLhyphen"/>genitors, THE PEOPLE OF THIS YOUR REALM HAVE TAKEN AT THEIR FREE LIBERTY BY THEIR OWN CONSENT, to be uſed amongſt them; and have bound themſelves by long Uſe and Cuſtome, to the obſervance of the ſame, NOT AS TO THE LAWS OF ANY FORREIGN PRINCE, POTENTATE, OR PRELATE, but as to the <hi>Cuſtomed and Antient Laws of this Realm</hi> by the ſaid <hi>Sufferance, Conſent</hi> and <hi>Cuſtome,</hi> and NONE OTHERWISE.</q> It ſtandeth therefore WITH NATURAL EQUITY, <q>AND GOOD REASON, that in all and every ſuch Laws humane, made within this Realm, by the ſaid <hi>Sufferance, Conſents,</hi> and <hi>Cuſtome,</hi> your Royal <hi>Ma<g ref="char:EOLhyphen"/>jeſty,</hi> and your <hi>Lords Spiritual and Temporal, and
+<pb n="11" facs="tcp:100793:6"/>Commons</hi> REPRESENTING THE WHOLE STATE OF YOUR REALM, IN THIS YOUR MOST HIGH COURT OF PARLIAMENT, have full Power and Authority not only to diſ<g ref="char:EOLhyphen"/>pence, but alſo to authoriſe ſome Select Perſons to diſpence with Thoſe and all other Humane Laws of your Realm, and with every one of them, as the Quality of the Perſons and Matter ſhall require, and alſo the ſaid Laws, and every of them to ABRO<g ref="char:EOLhyphen"/>GATE, ADNUL, AMPLIFIE, OR DIMINISH, as it ſhall ſeem good to your <hi>Majeſty,</hi> and the <hi>Nobles.</hi> and <hi>Commons</hi> of your Realm, as by divers good and wholeſome <hi>Acts</hi> of Parliaments Made &amp; Eſtabliſhed as well in your Time, as in the Time of your moſt No<g ref="char:EOLhyphen"/>ble Progenitors, it may plainly and evidently appear.</q>
+            </p>
+            <p>Now who can help it, if ſome unlucky Fellow, ob<g ref="char:EOLhyphen"/>ſerving theſe groſs Omiſſions, ſhould retort that Say<g ref="char:EOLhyphen"/>ing of the <hi>Worthy Prelate,</hi> 
+               <q>That if he might uſe the Scriptures as this Author hath uſed the <hi>Sta<g ref="char:EOLhyphen"/>tutes,</hi>
+                  <note place="margin">
+                     <hi>Jov.</hi> p. 184.</note> he could prove there was no God; for leave out, <hi>The Fool hath ſaid in his Heart,</hi> and then it fol<g ref="char:EOLhyphen"/>lows, <hi>There is no God.</hi>
+               </q>
+            </p>
+            <p n="4">4thly. HE IS CONTRADICTORY in his Prin<g ref="char:EOLhyphen"/>cipal and Fundamental Points, or at leaſt yields enough to deſtroy them, which are theſe three.</p>
+            <list>
+               <item>1. To ſhew that the Parallel between <hi>Julians</hi> Suc<g ref="char:EOLhyphen"/>ceſſion and the Doctor's here will not hold.</item>
+               <item>2. That the Succeſſion is Sacred and Unalterable by Humane Law.</item>
+               <item>3. That the Author of the Life of <hi>Julian</hi> is out in his Notion of <hi>Paſſive Obedience;</hi> and that 'Tis as much a Duty when ever the King exerts his Preroga<g ref="char:EOLhyphen"/>tive,
+<pb n="12" facs="tcp:100793:7"/>or <hi>Imperial Law,</hi> as when he has declared any Law in Parliament, according to the <hi>Politick</hi> Conſtitution of the Nation</item>
+            </list>
+            <p>For the 1. He tells us that 'tis abſurd in <hi>J.</hi> to ſuppoſe that the <hi>Empire was Hereditary</hi> in <hi>Ju<g ref="char:EOLhyphen"/>lian</hi>'s Time.<note place="margin">Pref.</note> Becauſe limited Inhe<g ref="char:EOLhyphen"/>ritances came not in till after, with the Feudal Law; and not with us till the <hi>Normans.</hi> and yet he cites <hi>Dio,</hi> who ſays, that the <hi>Empire</hi> was decreed BY THE SENATE UNTO <hi>J<g ref="char:V">Ʋ</g>LI<g ref="char:V">Ʋ</g>S</hi> AND THE SONS OF HIS BODY.<note place="margin">
+                  <hi>Pag.</hi> 9.</note> Nay, he tells us,<note place="margin">
+                  <hi>Pag.</hi> 78.</note> that this is <hi>an Intail'd King<g ref="char:EOLhyphen"/>dom by the Original Conſtitution of the Government:</hi> that is, it was Intail'd before there was any ſuch thing as a Limited Fee. But it ſeems, with him, nothing is an Inheritance, but what is claim'd by an antient Intail: thence he ſuppoſes that the Empire was not Hereditary, becauſe the Emperours ſometimes gave it to Adopted Sons and diſpoſed of it as an Inheritance of their own Purchaſe or Acquiſition:<note place="margin">
+                  <hi>Pag.</hi> 65.</note> he further will have it, that 'tis the nature of an In<g ref="char:EOLhyphen"/>tail'd Eſtate, that it can by no means be dock't, and the Limitations defeated: which no man can ſuppoſe that the Author of the Life of <hi>Julian</hi> ought to prove againſt himſelf.</p>
+            <p n="2">2dly. He is to prove that it is not in the Power of an <hi>Act of Parliament</hi> to defeat the Right of him who in ordinary Courſe ſhould ſucceed to the Crown of <hi>England:</hi> the force of all his Arguments for this, is that it is the nature <hi>of Birthright and Inheritance,</hi>
+               <note place="margin">
+                  <hi>Jov.</hi> p. 78.</note> 
+               <hi>which is not founded upon
+<pb n="13" facs="tcp:100793:7"/>the Statutes, but upon the Original Cuſtome and Conſtitu<g ref="char:EOLhyphen"/>tion of the</hi> Engliſh <hi>Government, and the Laws of the Go<g ref="char:EOLhyphen"/>vernment being Eſtabliſhed by the Laws of the Goſpel.</hi>
+               <note place="margin">P. <hi>203.</hi> Pref.</note> Thence <hi>God alone is the Author of this Hereditary Succeſſion to the Crown,</hi> Whence ſome will argue, that if ac<g ref="char:EOLhyphen"/>cording to the Laws of the Government, the King may Adopt another in Parliament, God himſelf would be the Author of this Adoption. But the main Queſti<g ref="char:EOLhyphen"/>on is, how this <hi>London Miniſter</hi> ſhews this to have been the <hi>Original Cuſtome and Conſtitution of the Go<g ref="char:EOLhyphen"/>vernment.</hi> Is it becauſe this Cuſtome hath been de<g ref="char:EOLhyphen"/>rived down without Interruption? That he doth not go about to prove: or doth he ſhew how it comes to paſs, that Interruptions in the Succeſſion to the Em<g ref="char:EOLhyphen"/>pire, are an Argument that that was not Hereditary, and yet are no Obſtacles here? Nay, doth he not own that this was not the <hi>Original Cuſtome and Conſtituti<g ref="char:EOLhyphen"/>on,</hi> in ſaying, that it firſt came in with the <hi>Normans? Pref.</hi>
+            </p>
+            <p n="3">3. He undertakes to ſhew that the Author of the Life of <hi>Julian,</hi> is out in his Notion of <hi>Paſſive Obedience;</hi> and that it is as much a Duty when ever the King exerts his Prerogative, or <hi>Imperial Law,</hi> as when he has declared any Law in Parliament, according to the <hi>Politick Con<g ref="char:EOLhyphen"/>ſtitution</hi> of the Nation: or to uſe this <hi>London Mini<g ref="char:EOLhyphen"/>ſter's</hi> own Words, <hi>That Paſſive-Obedi<g ref="char:EOLhyphen"/>ence is due by the Goſpel to the Soveraign Power,</hi>
+               <note place="margin">
+                  <hi>P.</hi> 164.</note> 
+               <hi>when the Soveraign Perſecutes contrary to Law.</hi> It is obſervable that his Antagoniſt never ſpeaks of the leaſt reſiſtance to be made to the <hi>Sacred Perſon</hi> of the King, but to <hi>Miniſters</hi> or <hi>Officers,</hi> acting without, or contrary to the Authority of his Laws, by which he ſpeaks to his Subjects in a way
+<pb n="14" facs="tcp:100793:8"/>not to be queſtioned, much leſs control'd: and truly I am much deceived, if this Man ſays leſs in his <hi>Lucid Intervals,</hi> after ſome vain Ravings, he hath theſe words, <hi>If by an inevitable neceſſity of de<g ref="char:EOLhyphen"/>fending themſelves,</hi>
+               <note place="margin">
+                  <hi>P.</hi> 279. <hi>P.</hi> 280.</note> 
+               <hi>he underſtands ſudden and private Defence againſt an Aſſaſſin ſent by the Kings Order, as his Malice ſeems to ſuggeſt, then it is nothing to his purpoſe, becauſe the Kings Law, which is his moſt Authoritative Com<g ref="char:EOLhyphen"/>mand allows us (as I ſuppoſe) that benefit, and if it do, it, doth not in the leaſt contradict the Doctrine of</hi> Paſ<g ref="char:EOLhyphen"/>ſive Obedience, <hi>which allows a Man to reſiſt or uſe the Sword to defend his Life, when the Laws (from which I except all Laws deſtructive of the Kings Crown and Rega<g ref="char:EOLhyphen"/>lity) Authoriſe him ſo to do.</hi>
+            </p>
+            <p>This ſort of Reſiſtance, you ſee, is not here except<g ref="char:EOLhyphen"/>ed as <hi>Deſtructive of the Regality,</hi> but here he yields,
+<list>
+                  <item>1. That the King in his Parliament ſpeaks to us with greater Authority than out of it, or that the <hi>Po<g ref="char:EOLhyphen"/>litical Law is above the Imperial Law; for by the Imperial Law Subjects muſt be ſo far Slaves,</hi>
+                     <note place="margin">
+                        <hi>P.</hi> 242.</note> 
+                     <hi>they muſt truſt their Lives and Liberties with their Soveraign.</hi> Yet this, it ſeems is wholly fruſtrated by the Kings Laws for <hi>their Pre<g ref="char:EOLhyphen"/>ſervation,</hi> which may Authoriſe the uſing one that acts under, or by vertue of the <hi>Imperial Law,</hi> as an <hi>Aſſaſſin.</hi>
+                  </item>
+                  <item>2. By juſt conſequence from what is here granted, it follows, that if one acting barely under that Au<g ref="char:EOLhyphen"/>thority has no legal or ſufficient Warrant, then he is guilty of a Breach of the <hi>Kings Peace,</hi> and a <hi>Conſtable,</hi> who by his Office is to keep the Peace, may aſſiſt the Party that is ſet upon, and require Numbers to joyn with him, and ſo they may go from Pariſh to Pariſh in freſh Purſuit.</item>
+                  <item>
+                     <pb n="15" facs="tcp:100793:8"/>
+3. <hi>This doth not in the leaſt contradict the Doctrine of</hi> Paſſive Obedience.</item>
+                  <item>4. To the three foregoing Heads, you may add a fourth from another place of his.</item>
+               </list>
+            </p>
+            <p>
+               <hi>P.</hi> 192. Even where an <hi>Emperour has Abſolute Power over his Subjects Lives and Eſtates, as to do what he pleaſes with particular Perſons, he has not</hi> thereby <hi>right to enſlave the whole People, by altering the Conſti<g ref="char:EOLhyphen"/>tution of the Government from a Civil into a Tyrannical Dominion; or from a Government wherein the People had Liberty and Property into ſuch a Government as the</hi> Perſian <hi>was, and the</hi> Turkiſh <hi>now is, where the Subjects are the Princes Family, and all that they have is his by Law.</hi>
+            </p>
+            <p>To tell you plainly, I am almoſt as ſorry as the Au<g ref="char:EOLhyphen"/>thors own Friends can be, that he ſhould raiſe all mens Expectations to ſo little purpoſe, as any one may obſerve by this Juſt, though General Cenſure. 'Tis a hard caſe that a man ſhould run the hazard of a Judicial and more <hi>Authoritative</hi> Cenſure, and yet do no Service to any Intereſt, or to his own Reputation. But thus it often happens when Clergy-men will be hooking in Civil Rights in <hi>ordine ad Spiritualia;</hi> and if they meet with the Fates of their Predeceſſors <hi>Syb<g ref="char:EOLhyphen"/>thorp</hi> and <hi>Manwaring,</hi> they can be but pityed at the moſt by</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>Your Humble Servant.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>ERRATA. Page 6. l. 14. r. <hi>Deſpicable.</hi> ib. l. 29. r. <hi>Tractats.</hi> p. 8. l. 12. r. <hi>Vindicative.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
